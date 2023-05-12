@@ -1,0 +1,1 @@
+# static.idrc.ocad.ca
