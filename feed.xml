@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>staging.app.shapeyourtrip.myclimate.org</title>
+    <link>https://staging.app.shapeyourtrip.myclimate.org</link>
+    <description>This is the RSS feed for staging.app.shapeyourtrip.myclimate.org</description>
+    <atom:link href="https://staging.app.shapeyourtrip.myclimate.org/feed.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <pubDate>2023-05-31T00:28:35Z</pubDate>
+    <lastBuildDate>2023-05-31T00:28:35Z</lastBuildDate>
+    <generator>Bard</generator>
+    <item>
+      <title>New Trip Added</title>
+      <link>https://staging.app.shapeyourtrip.myclimate.org/trips/new-trip</link>
+      <description>A new trip has been added to the site. This trip takes you from London to Paris, and it is a great way to see some of the best that Europe has to offer.</description>
+      <pubDate>2023-05-30T23:59:59Z</pubDate>
+    </item>
+    <item>
+      <title>Trip Updated</title>
+      <link>https://staging.app.shapeyourtrip.myclimate.org/trips/updated-trip</link>
+      <description>One of the trips on the site has been updated. This trip takes you from New York City to Los Angeles, and it now includes a stop in Las Vegas.</description>
+      <pubDate>2023-05-29T23:59:59Z</pubDate>
+    </item>
+    <item>
+      <title>Trip Deleted</title>
+      <link>https://staging.app.shapeyourtrip.myclimate.org/trips/deleted-trip</link>
+      <description>One of the trips on the site has been deleted. This trip took you from San Francisco to Seattle, and it was no longer getting enough traffic.</description>
+      <pubDate>2023-05-28T23:59:59Z</pubDate>
+    </item>
+  </channel>
+</rss>
