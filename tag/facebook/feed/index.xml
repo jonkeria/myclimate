@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facebook &#8211; FR Cam Britannica</title>
+	<atom:link href="https://fr.cam.britannica.com/tag/facebook/feed/" rel="self" type="application/rss+xml" />
+	<link>https://fr.cam.britannica.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 07 Jul 2023 10:36:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://fr.cam.britannica.com/wp-content/uploads/2023/07/FR-Cam.png</url>
+	<title>Facebook &#8211; FR Cam Britannica</title>
+	<link>https://fr.cam.britannica.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Twitter threatens lawsuit against Meta over threads</title>
+		<link>https://fr.cam.britannica.com/2023/07/07/twitter-threatens-lawsuit-against-meta-over-threads/</link>
+					<comments>https://fr.cam.britannica.com/2023/07/07/twitter-threatens-lawsuit-against-meta-over-threads/#respond</comments>
+		
+		<dc:creator><![CDATA[kobilakaert]]></dc:creator>
+		<pubDate>Fri, 07 Jul 2023 10:36:20 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[case]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">https://fr.cam.britannica.com/?p=42</guid>
+
+					<description><![CDATA[Twitter has threatened legal action against Meta, the parent company of Facebook and Instagram, over its new social media platform, Threads. The threat was made in a letter sent by Twitter lawyer Alex Spiro to Meta CEO Mark Zuckerberg. The news was first reported from a report published by news website Semaphore. Meta launched &#8216;Threads&#8217; [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span>Twitter has threatened legal action against Meta, the parent company of Facebook and Instagram, over its new social media platform, Threads.</span></p>
+<p><span>The threat was made in a letter sent by Twitter lawyer Alex Spiro to Meta CEO Mark Zuckerberg. The news was first reported from a report published by news website Semaphore.</span></p>
+<p><span>Meta launched &#8216;Threads&#8217; last Wednesday. It is being considered as a rival to Twitter.</span></p>
+<p><span>In a letter to Zuckerberg, lawyer Alex Spiro alleged that Meta hired former Twitter employees. Those employees were privy to and still have access to Twitter&#8217;s commercial and highly confidential information.</span></p>
+<p><span>Spiro also wrote, &#8216;Twitter authorities want to strictly enforce intellectual property rights and demand that Meta take immediate action to stop the use of Twitter&#8217;s commercially confidential information or any other confidential information.</span></p>
+<p><span>Reuters contacted Meta and Spiro for comment. However, there was no immediate response.</span></p>
+<p><span>A source familiar with the letter confirmed the news to Reuters. Reuters also reached out to Spiro for comment, but did not receive a response.</span></p>
+<p><span>Meta spokesperson Andy Stone said in a post on Threads that no member of the Threads engineering team is a former Twitter employee. Nothing like that happened here.</span></p>
+<p><span>A former senior Twitter employee told Reuters he was not aware of any former Twitter employees working on Threads.</span></p>
+<p><span>Meanwhile, Twitter owner Elon Musk said competition is good, but cheating is not.</span></p>
+<p><span>It should be noted that the activities of Threads are being conducted under the control of Instagram, a popular social media for sharing pictures and videos. As a result, it can be accessed using the Instagram account. In addition to sending messages, links, images, GIFs and videos can also be sent.</span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://fr.cam.britannica.com/2023/07/07/twitter-threatens-lawsuit-against-meta-over-threads/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
